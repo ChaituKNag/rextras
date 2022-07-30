@@ -5,9 +5,9 @@ These are some useful React components and hooks that boost your productivity ðŸ
 Grab it and use right away.
 
 ```
-npm i reextras
+npm i rextras
 
 # or
 
-yarn add reextras
+yarn add rextras
 ```
